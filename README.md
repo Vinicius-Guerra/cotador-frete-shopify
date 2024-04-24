@@ -1,4 +1,4 @@
-# cotador-frete-shopify
+# cotador de frete para shopify
 
 ## Código para gerar um cotador de frete na pagina de produto.
 
